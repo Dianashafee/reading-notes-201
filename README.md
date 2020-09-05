@@ -9,7 +9,7 @@ these are the included topics:
 - Introduction to JavaScript and its functions.
 
 
-### Tbale Of Content:
+### Table Of Content:
 *This course consist of four Modules And 15 reading Assignment As the following table demonstrate:*
 | Modules |  Topics  |
 |:-----------------: |-------------:|
