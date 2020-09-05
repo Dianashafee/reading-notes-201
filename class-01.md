@@ -28,7 +28,7 @@ building better websites.
 
 ## Summary 
 > HTML pages are text documents.
-> Tags are often referred to as elements
+> Tags are often referred to as elements.
 > Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
 > Attributes require a name and a value.
 
