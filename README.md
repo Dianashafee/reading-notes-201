@@ -11,7 +11,7 @@ these are the included topics:
 
 ### Tbale Of Content:
 *This course consist of four Modules And 15 reading Assignment As the following table demonstrate:*
-|# Modules |  Topics  |
+| Modules |  Topics  |
 |:-----------------: |-------------:|
 |**Prep Work:** |Prep-Work|
   |*read01*|Intro to HTML & JS|
