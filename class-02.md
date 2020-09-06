@@ -2,6 +2,8 @@
 
 ###### Text is the main part of the content or your website, and it should be written in an appropriate structure for the page by using (*markup*) tags.
 
+![text](https://icons-for-free.com/iconfiles/png/512/html+markup+tag+icon-1320196719601740582.png)
+
 ### Adding markup to the text so it can appear on your page, and it can be done through:
   1. structural markup
   2. semantic markup 
@@ -26,6 +28,9 @@
 
 
 # what is CSS ?
+
+![css](https://www.natchcenter.com/uploads/_blog/id546/Css-512.png)
+
 ### it is cascading style sheet used for describing the presentation od a document written in a markup language like **html**. CSS allows you to create rules that specify how the content of an element should appear, including:
 - layout
 - colors
@@ -35,6 +40,8 @@
 
 
 # Basic Javascript Instuctions 
+
+![js](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmh6P_rqKW4n_gd97Tz2tqPsOzAO5jK_Zkzw&usqp=CAU)
 
 ## what is a script?
   > A script is a series of instructions that a computer can follow one-by-one.Each individual instruction or step is known as a statement.Statements should end with a semicolon. 
