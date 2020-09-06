@@ -1,6 +1,6 @@
 # welcome to class-02  
 
-###### Text is the main part of the content or your website, and it should be written in an appropriate structure for the page by using (*markup*) tags.
+## Text is the main part of the content or your website, and it should be written in an appropriate structure for the page by using (*markup*) tags.
 
 ![text](https://icons-for-free.com/iconfiles/png/512/html+markup+tag+icon-1320196719601740582.png)
 
@@ -41,7 +41,7 @@
 
 # Basic Javascript Instuctions 
 
-![js](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmh6P_rqKW4n_gd97Tz2tqPsOzAO5jK_Zkzw&usqp=CAU)
+![js](https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/code_javascript.png)
 
 ## what is a script?
   > A script is a series of instructions that a computer can follow one-by-one.Each individual instruction or step is known as a statement.Statements should end with a semicolon. 
