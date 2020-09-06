@@ -37,7 +37,7 @@ building better websites.
 
 # EXTRA MARKUP 
 
-- **<!-- -->** ... we use it when  adding a comment to the code that will not be visible in the user's browser, we can add the text between these
+- **!-- --** ... we use it when  adding a comment to the code that will not be visible in the user's browser, we can add the text between these
 characters:<!-- comment goes here -->
 
 - **span** ... we use it to: 
@@ -53,8 +53,8 @@ particular elements.
 
 # PROCESS AND DESIGN.
 
->  *Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.
-> in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.
+>  *Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.*
+> *in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.*
 
 
 ## In order to make a successful website you need to answer these questions:
