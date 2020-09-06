@@ -16,7 +16,8 @@ building better websites.
 
 # HTML Structure :
 
- ![html](https://lh3.googleusercontent.com/proxy/X3qK176C5wCYWReW6mbMp_42DT7GaSNQOlpEcvcxjy10QxGj-5wzrquY92gwplZaqlJoMka_9I_CFVKPgzf0cxuRyKau78VDCXsoWgoLWgvp1IPY_706xaUDM4uBdOR)
+ ![html](https://media.geeksforgeeks.org/wp-content/cdn-uploads/html-1024x341.png)
+ 
 - **html**
 - **HEAD**... Before the <body> element you will often see a <head> element This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
  
