@@ -16,16 +16,16 @@ building better websites.
 
 # HTML Structure :
 
- ![html](https://lh3.googleusercontent.com/proxy/X3qK176C5wCYWReW6mbMp_42DT7GaSNQOlpEcvcxjy10QxGj-_5wzrquY92gwplZaqlJoMka_9I_CFVKPgzf0cxuRyKau78VDCXsoWgoLWgvp1IPY_706xaUDM4uBdOR)
-- html
-- head... Before the <body> element you will often see a <head> element This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
-- <Title>The contents of element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
-- <Body> it contains the content.
-- <H1>  this is the main heading.
-- <P> This text might be an introduction to the rest of the page. And if the page is a long one it might be split up into several sub-heading
-- <H2>This is a Sub-Heading 
+ ![html](https://lh3.googleusercontent.com/proxy/X3qK176C5wCYWReW6mbMp_42DT7GaSNQOlpEcvcxjy10QxGj-5wzrquY92gwplZaqlJoMka_9I_CFVKPgzf0cxuRyKau78VDCXsoWgoLWgvp1IPY_706xaUDM4uBdOR)
+- **html**
+- **HEAD**... Before the <body> element you will often see a <head> element This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
  
-## *to each elemnt we have Openning Tag <> and Closing Tag </>*
+- **title** .... The contents of element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
+- **body** it contains the content.
+- **h1**  this is the main heading.
+- **p** This text might be an introduction to the rest of the page. And if the page is a long one it might be split up into several sub-heading
+- **h2** it is a Sub-Heading 
+- *to each elemnt we have Openning Tag <> and Closing Tag </>*
 
 ## Summary 
 1. HTML pages are text documents.
@@ -52,8 +52,8 @@ particular elements.
 
 # PROCESS AND DESIGN.
 
-###  Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.
-### in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.
+>  Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.
+> in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.
 
 
 ## In order to make a successful website you need to answer these questions:
