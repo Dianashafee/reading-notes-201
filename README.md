@@ -17,7 +17,7 @@ these are the included topics:
 |**Prep Work:** |Prep-Work|
   |.[*read01*](https://dianashafee.github.io/reading-notes-201/class-01)|Intro to HTML & JS|
 |**Module 1:** |Introduction to web Development.|
-  |*read02*| HTML text,intro to css, JS instructions|
+  |.[*read02*](https://dianashafee.github.io/reading-notes-201/class-02)| HTML text,intro to css, JS instructions|
   |*read03*|HTML lists CSS boxes, JS control flow|
   |*read04*|HTML links CSS layout, JS functions|
   |*read05*|HTML imgs CSS color & text|
