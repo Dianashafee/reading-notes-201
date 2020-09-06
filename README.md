@@ -35,8 +35,6 @@ these are the included topics:
  |*read14b|What google learnd about teams|
 |**Module 4:**| Project Work.|
 
-## You can check reading notes class01
-.[class01](https://dianashafee.github.io/reading-notes-201/class-01.md)
 
 
 
