@@ -24,7 +24,7 @@ building better websites.
 - <h1>  this is the main heading.
 - <p> This text might be an introduction to the rest of the page. And if the page is a long one it might be split up into several sub-heading
 - <h2>This is a Sub-Heading 
-###### *to each elemnt we have Openning Tag <> and Closing Tag </>*
+### *to each elemnt we have Openning Tag <> and Closing Tag </>*
 
 ## Summary 
 > HTML pages are text documents.
