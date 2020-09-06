@@ -1,6 +1,6 @@
-#  Reading-notes-201 *Class-01.*
+#  *Reading-notes-201 Class-01.*
 
-# People can access to the web though:
+# People can access to the web through:
 - BROWSERS
 - WEB SERVERS
 - SCREEN READERS
@@ -16,43 +16,45 @@ building better websites.
 
 # HTML Structure :
 
- ![html](https://lh3.googleusercontent.com/proxy/X3qK176C5wCYWReW6mbMp_42DT7GaSNQOlpEcvcxjy10QxGj-_5wzrquY92gwplZaqlJoMka_9I_CFVKPgzf0cxuRyKau78VDCXsoWgoLWgvp1IPY_706xaUDM4uBdOR)
-- <html>
-- <head> Before the <body> element you will often see a <head> element This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
-- <Title>The contents of element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
-- <body> it contains the content.
-- <h1>  this is the main heading.
-- <p> This text might be an introduction to the rest of the page. And if the page is a long one it might be split up into several sub-heading
-- <h2>This is a Sub-Heading 
-###### *to each elemnt we have Openning Tag <> and Closing Tag </>*
+ ![html](https://media.geeksforgeeks.org/wp-content/cdn-uploads/html-1024x341.png)
+ 
+- **html**
+- **HEAD**... Before the <body> element you will often see a <head> element This contains information about the page (rather than information that is shown within the main part of the browser window that is highlighted in blue on the opposite page).
+ 
+- **title** .... The contents of element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
+- **body** it contains the content.
+- **h1**  this is the main heading.
+- **p** This text might be an introduction to the rest of the page. And if the page is a long one it might be split up into several sub-heading
+- **h2** it is a Sub-Heading 
+- *to each elemnt we have Openning Tag <> and Closing Tag </>*
 
 ## Summary 
-> HTML pages are text documents.
-> Tags are often referred to as elements
-> Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
-> Attributes require a name and a value.
+1. HTML pages are text documents.
+2. Tags are often referred to as elements.
+3. Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+4. Attributes require a name and a value.
 
 
 # EXTRA MARKUP 
 
-- <!-- --> ... we use it when  adding a comment to the code that will not be visible in the user's browser, we can add the text between these
+- **!-- --** ... we use it when  adding a comment to the code that will not be visible in the user's browser, we can add the text between these
 characters:<!-- comment goes here -->
 
-- <span> ... we use it to: 
+- **span** ... we use it to: 
                1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
                2. Contain a number of inline elements
 
-- <meta>  element lives inside the <head> element andcontains information about that web page.
+- **meta**  element lives inside the <head> element andcontains information about that web page.
 
-- The id and class attributes allow you to identify
+- The **id** and **class** attributes allow you to identify
 particular elements.
 
-- The <div> and <span> elements allow you to group block-level and inline elements together.
+-  **div** and <span> elements allow you to group block-level and inline elements together.
 
 # PROCESS AND DESIGN.
 
-###  Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.
-### in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.
+>  *Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.*
+> *in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.*
 
 
 ## In order to make a successful website you need to answer these questions:
@@ -72,9 +74,9 @@ particular elements.
 
 ### what is Javascript 
 
-###### is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
+> *is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.*
 
-###### JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
+> *JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.*
 
 
 

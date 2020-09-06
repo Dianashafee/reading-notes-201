@@ -15,28 +15,29 @@ these are the included topics:
 | Modules |  Topics  |
 |:-----------------: |-------------:|
 |**Prep Work:** |Prep-Work|
-  |*read01*|Intro to HTML & JS|
+  |.[*read01*](https://dianashafee.github.io/reading-notes-201/class-01)|Intro to HTML & JS|
 |**Module 1:** |Introduction to web Development.|
   |*read02*| HTML text,intro to css, JS instructions|
   |*read03*|HTML lists CSS boxes, JS control flow|
   |*read04*|HTML links CSS layout, JS functions|
   |*read05*|HTML imgs CSS color & text|
 |**Module 2:** |The Dom, Domain Modeling with Object literal.|
- |*read06|JS object literal, the dom|
- |*read07|HTML imTable, JS constructor function|
- |*read08|more CSS layout|
- |*read09|forms and events|
- |*read10|JS Debugging|
+ |*read06*|JS object literal, the dom|
+ |*read07*|HTML imTable, JS constructor function|
+ |*read08*|more CSS layout|
+ |*read09*|forms and events|
+ |*read10*|JS Debugging|
 |**Module 3:** |Libraries and Local storage.|
- |*read11|Assorted Topics|
- |*read12|Docs for HTML|
- |*read13|local storage|
- |*read14a|Css transforms, transition, and animation|
- |*read14b|What google learnd about teams|
+ |*read11*|Assorted Topics|
+ |*read12*|Docs for HTML|
+ |*read13*|local storage|
+ |*read14a*|Css transforms, transition, and animation|
+ |*read14b*|What google learnd about teams|
 |**Module 4:**| Project Work.|
 
 
 reading-notes-201 class01
+
 
 
 
