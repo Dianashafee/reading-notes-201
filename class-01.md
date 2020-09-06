@@ -51,13 +51,13 @@ particular elements.
 
 -  **div** and <span> elements allow you to group block-level and inline elements together.
 
-# *PROCESS AND DESIGN.
+# PROCESS AND DESIGN.
 
 >  *Web developers, should think about their audience, their age, their interests as well, Moreover, we should focus more on how to appeal them, how to get their attention to visit that website, after knowing all of these details, it is time to think about the content that you will provide to them. So here it is your time to express your creativity, you can provide images, effects, and the design of the websites. all of these have highly effected by visitors, and it has indirect fluence on them, Therfore, it is really impotant to put all of your efforts, for great results.
 > in conclusion, a web developer should work hard not just to sell a website, but to creat a website that sell.
 
 
-## *In order to make a successful website you need to answer these questions:
+## In order to make a successful website you need to answer these questions:
 
 1. Who is the Site For?
 2. Why People Visit YOUR Website
@@ -65,14 +65,14 @@ particular elements.
 4. What Information Your Visitors Need
 5. How Often People Will Visit Your Site
 
-### *after answering all these questions, you will be able to start makeing your website. 
+### after answering all these questions, you will be able to start makeing your website. 
 
 
-# **JAVASCRIPT** 
+# JAVASCRIPT 
 
 ![JS](https://www.cdn.geeksforgeeks.org/wp-content/uploads/js.png)
 
-### *what is Javascript 
+### what is Javascript 
 
 > *is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
 
