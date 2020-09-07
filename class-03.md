@@ -2,7 +2,7 @@
 
 ##  LISTS IN HTML 
 
-![LIST](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5USd8ix-YBiCqMW5KsMLycIYEw1AQqZ2Ydw&usqp=CAU)
+![LIST](https://careerkarma.com/blog/wp-content/uploads/2020/02/HTML-LISTS.jpg)
 
 > lists are good elemnts of the webpage, it hepls you to organize the content, so it can ease to used to read the content of the web page,
 therefore we have lists in html, and we have two types of lists;
