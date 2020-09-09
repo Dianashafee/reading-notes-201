@@ -19,7 +19,7 @@ these are the included topics:
 |**Module 1:** |Introduction to web Development.|
   |.[*read02*](https://dianashafee.github.io/reading-notes-201/class-02)| HTML text,intro to css, JS instructions|
   |.[*read03*](https://dianashafee.github.io/reading-notes-201/class-03)|HTML lists CSS boxes, JS control flow|
-  |*read04*|HTML links CSS layout, JS functions|
+  |.[*read04*](https://dianashafee.github.io/reading-notes-201/class-04)|HTML links CSS layout, JS functions|
   |*read05*|HTML imgs CSS color & text|
 |**Module 2:** |The Dom, Domain Modeling with Object literal.|
  |*read06*|JS object literal, the dom|
