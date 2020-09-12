@@ -22,7 +22,7 @@ these are the included topics:
   |.[*read04*](https://dianashafee.github.io/reading-notes-201/class-04)|HTML links CSS layout, JS functions|
   |.[*read05*](https://dianashafee.github.io/reading-notes-201/read-05)|HTML imgs CSS color & text|
 |**Module 2:** |The Dom, Domain Modeling with Object literal.|
- |*read06*|JS object literal, the dom|
+ |.[*read06*](https://dianashafee.github.io/reading-notes-201/class-06)|JS object literal, the dom|
  |*read07*|HTML imTable, JS constructor function|
  |*read08*|more CSS layout|
  |*read09*|forms and events|
