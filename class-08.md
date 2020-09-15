@@ -1,5 +1,5 @@
 
-# Welcome to HTML layout 
+# Welcome to CSS layout 
 
 ![layout](https://cdn.educba.com/academy/wp-content/uploads/2020/01/css-layout.jpg)
 
