@@ -25,7 +25,7 @@ these are the included topics:
  |.[*read06*](https://dianashafee.github.io/reading-notes-201/class-06)|JS object literal, the dom|
  |.[*read07*](https://dianashafee.github.io/reading-notes-201/class-07)|HTML imTable, JS constructor function|
  |.[*read08*](https://dianashafee.github.io/reading-notes-201/class-08)|more CSS layout|
- |*read09*|forms and events|
+ |.[*read09*](https://dianashafee.github.io/reading-notes-201/class-09)|forms and events|
  |*read10*|JS Debugging|
 |**Module 3:** |Libraries and Local storage.|
  |*read11*|Assorted Topics|
