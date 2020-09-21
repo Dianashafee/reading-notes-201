@@ -29,7 +29,7 @@ these are the included topics:
  |.[*read10*](https://dianashafee.github.io/reading-notes-201/class-10)|JS Debugging|
 |**Module 3:** |Libraries and Local storage.|
  |.[*read11*](https://dianashafee.github.io/reading-notes-201/class-11)|Assorted Topics|
- |*read12*|Docs for HTML|
+ |.[*read12*](https://dianashafee.github.io/reading-notes-201/class-12)|Docs for HTML|
  |*read13*|local storage|
  |*read14a*|Css transforms, transition, and animation|
  |*read14b*|What google learnd about teams|
