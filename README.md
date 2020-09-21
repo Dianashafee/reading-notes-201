@@ -30,7 +30,7 @@ these are the included topics:
 |**Module 3:** |Libraries and Local storage.|
  |.[*read11*](https://dianashafee.github.io/reading-notes-201/class-11)|Assorted Topics|
  |.[*read12*](https://dianashafee.github.io/reading-notes-201/class-12)|Docs for HTML|
- |*read13*|local storage|
+ |.[*read13*](https://dianashafee.github.io/reading-notes-201/class-13)|local storage|
  |*read14a*|Css transforms, transition, and animation|
  |*read14b*|What google learnd about teams|
 |**Module 4:**| Project Work.|
