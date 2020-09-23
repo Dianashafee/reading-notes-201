@@ -31,8 +31,8 @@ these are the included topics:
  |.[*read11*](https://dianashafee.github.io/reading-notes-201/class-11)|Assorted Topics|
  |.[*read12*](https://dianashafee.github.io/reading-notes-201/class-12)|Docs for HTML|
  |.[*read13*](https://dianashafee.github.io/reading-notes-201/class-13)|local storage|
- |*read14a*|Css transforms, transition, and animation|
- |*read14b*|What google learnd about teams|
+ |.[*read14a*](https://dianashafee.github.io/reading-notes-201/class-14a)|Css transforms, transition, and animation|
+ |.[*read14b*](https://dianashafee.github.io/reading-notes-201/class-14b)|What google learnd about teams|
 |**Module 4:**| Project Work.|
 
 
